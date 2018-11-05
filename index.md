@@ -519,6 +519,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     a bit difficult, so we recommend
     <a href="https://www.anaconda.com/distribution/">Anaconda</a>,
     an all-in-one installer.
+   </p>
+  <p>
+  Dartmouth College offers an institutionally hosted Jupyter Notebook (https://jupyter.dartmouth.edu) which provides the same environment     as Anaconda without the need to install it locally on your own computer. To access Dartmouth’s Jupyter Notebook, please request an account using: https://rcweb.dartmouth.edu/accounts (keep “Polaris and Andes” option checked) and allow 48 hours for the account to be provisioned. If you have any questions regarding the account or the institutional Jupyter Notebook, please contact Research.Computing@dartmouth.edu directly.
   </p>
 
     <p>
